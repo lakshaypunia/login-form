@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+
+
+@tailwind utilities;
+
+@theme utilities{
+    --font-jakarta: "Plus Jakarta Sans", "sans-serif"
+}
