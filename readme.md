@@ -61,7 +61,7 @@ The backend is powered by **Node.js, Express, TypeScript, and Prisma (PostgreSQL
    ```
 5. **Start the backend server**:
    ```bash
-   node serer.js
+   node server.js
    ```
 
 This will start the backend server at `http://localhost:3001`.
