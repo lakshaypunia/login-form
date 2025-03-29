@@ -1,6 +1,6 @@
-# 📌 Full-Stack Application Setup
+# 📌 Full-Stack login-form Setup
 
-Welcome to the **Full-Stack Application**! This project is built using **TypeScript** for both the frontend and backend. Follow the steps below to set up and run the project on your local machine. 🚀
+Welcome to the **Full-Stack login-form Application**! This project is built using **TypeScript** for both the frontend and backend. Follow the steps below to set up and run the project on your local machine. 🚀
 
 ---
 
@@ -88,7 +88,7 @@ project-root/
 
 ## ✅ Running the Full-Stack Application
 1. Start the **frontend**: `npm run dev` (inside `frontend` folder)
-2. Start the **backend**: `npm run dev` (inside `backend` folder)
+2. Start the **backend**: `node server.js` (inside `backend` folder)
 3. Ensure the **database** is set up correctly with Prisma.
 4. Open `http://localhost:5173` in your browser and start using the app! 🎉
 
