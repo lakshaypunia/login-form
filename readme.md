@@ -9,10 +9,10 @@ To get started, clone the repository using Git or download the source code direc
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repository.git
+git clone https://github.com/lakshaypunia/login-form.git
 
 # Move into the project directory
-cd your-repository
+cd login-form
 ```
 
 Alternatively, you can **download the code directly** from GitHub as a ZIP file and extract it.
@@ -28,7 +28,7 @@ The frontend is built using **React with TypeScript**.
    ```
 2. **Install dependencies**:
    ```bash
-   npm install
+   npm install --force
    ```
 3. **Run the development server**:
    ```bash
@@ -81,9 +81,6 @@ This will start the backend server at `http://localhost:3001`.
 project-root/
 │── frontend/      # React frontend (TypeScript)
 │── backend/       # Node.js backend (TypeScript, Express, Prisma)
-│── prisma/        # Database schema & migrations
-│── .env           # Environment variables
-│── package.json   # Dependencies & scripts
 │── README.md      # Project setup instructions
 ```
 
